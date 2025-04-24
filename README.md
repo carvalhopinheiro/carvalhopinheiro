@@ -11,8 +11,9 @@
 - 🎓 Engenheiro de Produção pela UFRN  
 - ⚡ Experiência sólida em **O&M e Performance em energia renovável** (Essentia Energia & ContourGlobal)  
 - 📈 +5 anos de atuação com **dados e automações**, unindo análise de dados, engenharia de dados e automação  
-- 💼 Participei de mais de **100 projetos reais como autônomo**, atendendo projeto de ponta a ponta  
-- 🔎 Busco sempre aplicar tecnologia para resolver problemas reais e gerar valor com dados  
+- 💼 Participei de mais de **100 projetos reais como autônomo**, atendendo projeto de ponta a ponta
+- 👨‍💻 Experiência sólida como consultor de negocios para pequenas e médias empresas
+- 🔎 Busco sempre aplicar tecnologia para resolver problemas reais e gerar valor com dados
 
 ---
 
@@ -41,6 +42,7 @@
 - `web-scraping/` – bots de coleta inteligente de dados
 - `api-appscript/` – automações com Apps Script e APIs REST
 - `powerbi/` – dashboards interativos e análises
+- `ciencia-de-dados/` – Modelos de machine learning para previsão, classificação e otimização de processos com base em dados.
 - `apps/` – projetos com Flask e Streamlit
 
 ---
