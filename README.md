@@ -25,7 +25,7 @@
 🐍 Python &nbsp;&nbsp;&nbsp;
 ☁️ Google Cloud Platform &nbsp;&nbsp;&nbsp;
 🧾 Google Apps Script &nbsp;&nbsp;&nbsp;  
-🌐 APIs REST &nbsp;&nbsp;&nbsp;
+🌐 APIs &nbsp;&nbsp;&nbsp;
 🧼 Web Scraping &nbsp;&nbsp;&nbsp;
 💻 Streamlit &nbsp;&nbsp;&nbsp;
 📂 SQL &nbsp;&nbsp;&nbsp;
